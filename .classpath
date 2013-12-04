@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry exported="true" kind="lib" path="C:/eclipse/configuration/org.eclipse.osgi/bundles/955/1/.cp/lib/floggy-persistence-framework-1.4.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://floggy.sourceforge.net/modules/floggy-persistence-framework/1.4.0/floggy-persistence-framework/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/WTK2.5.2_01/lib/midpapi21.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/WTK2.5.2_01/docs/api/midp/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Nokia Symbian3 SDK v0.9 /SymbianEmulator"/>
+	<classpathentry exported="true" kind="lib" path="lib/RChart.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/marge-core-0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ISPackage.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

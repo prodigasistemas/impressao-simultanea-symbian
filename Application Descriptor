@@ -1,0 +1,13 @@
+Nokia-MIDlet-No-Exit: true
+MIDlet-1: ImpressaoSimultanea,/gsanx.png,com.ipad.facade.Fachada
+MIDlet-Jar-URL: ImpressaoSimultanea.jar
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.http, javax.microedition.io.Connector.https, javax.microedition.io.Connector.file.read,  javax.microedition.io.Connector.file.write
+App-Version: 4.2.1.11
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 4.2
+Printer: 1
+MIDlet-Vendor: PRODIGA
+MIDlet-Name: ImpressaoSimultanea MIDlet Suite
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.https, javax.microedition.io.Connector.file.read,  javax.microedition.io.Connector.file.write
+Calculo-Consumo-Medio: 0
